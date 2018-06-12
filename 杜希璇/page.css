@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px auto;
+    font-size: 16px;
+}
+body{
+    background: rgba(3,4,5,0.81);
+}
+.img{
+    text-align: center;
+}
+#logo{
+    width: 100px;
+    margin-bottom: 30px;
+}
+.form_1{
+    background: #fff;
+    width: 400px;
+    margin-top: 50px;
+    position: relative;
+    padding: 50px 30px;
+    border-radius: 15px;
+}
+.warp{
+    height: 40px;
+    margin-left: 50px;
+}
+#form_item{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#form_item1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form_input{
+    width: 100%;
+    border:0.5px solid #807B7C;
+    height: 30px;
+    border-radius: 3px;
+}
+.label_1{
+    margin-left: 5px;
+    float: left;
+    width: 40px;
+    margin-top: 5px;
+}
+.anniu{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.anniu div{
+    height: 30px;
+    width: 80px;
+    border-radius: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+.anniu_dl{
+    background-color: #1D98FF;
+    color: #fff;
+    border: 0.5px solid #1D98FF;
+    float: left;
+    margin-left: 100px;
+}
+.anniu_cz{
+    border: 0.5px solid #807B7C;
+    float: right;
+    margin-right: 100px;
+}
+.box{
+    margin-top: 4px;
+}
+.anniu_dl:hover{
+    background: #00caf9;
+    border-color: #00caf9;;
+}
+.anniu_cz:hover{
+    color: #00caf9;;
+    border-color: #00caf9;;
+}
